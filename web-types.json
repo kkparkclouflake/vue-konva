@@ -1,0 +1,427 @@
+{
+  "framework": "vue",
+  "name": "vue-konva",
+  "version": "3.0.3",
+  "contributions": {
+    "html": {
+      "description-markup": "markdown",
+      "types-syntax": "typescript",
+      "tags": [
+        {
+          "name": "v-stage",
+          "description": "Konva stage",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-layer",
+          "description": "Konva layer",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-fast-layer",
+          "description": "Konva fast layer",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-group",
+          "description": "Konva group",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-label",
+          "description": "Konva label",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-rect",
+          "description": "Konva rectangle",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-circle",
+          "description": "Konva circle",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-ellipse",
+          "description": "Konva ellipse",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-wedge",
+          "description": "Konva wedge",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-line",
+          "description": "Konva line",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-sprite",
+          "description": "Konva sprite",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-image",
+          "description": "Konva image",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-text",
+          "description": "Konva text",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-text-path",
+          "description": "Konva text path",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-star",
+          "description": "Konva star",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-ring",
+          "description": "Konva ring",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-arc",
+          "description": "Konva arc",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-tag",
+          "description": "Konva tag",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-path",
+          "description": "Konva path",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-regular-polygon",
+          "description": "Konva regular polygon",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-arrow",
+          "description": "Konva arrow",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-shape",
+          "description": "Konva shape",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-transformer",
+          "description": "Konva transformer",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-stage",
+          "description": "Konva stage",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-layer",
+          "description": "Konva layer",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-fast-layer",
+          "description": "Konva fast layer",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-group",
+          "description": "Konva group",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-label",
+          "description": "Konva label",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-rect",
+          "description": "Konva rectangle",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-circle",
+          "description": "Konva circle",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-ellipse",
+          "description": "Konva ellipse",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-wedge",
+          "description": "Konva wedge",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-line",
+          "description": "Konva line",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-sprite",
+          "description": "Konva sprite",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-image",
+          "description": "Konva image",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-text",
+          "description": "Konva text",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-text-path",
+          "description": "Konva text path",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-star",
+          "description": "Konva star",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-ring",
+          "description": "Konva ring",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-arc",
+          "description": "Konva arc",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-tag",
+          "description": "Konva tag",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-path",
+          "description": "Konva path",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-regular-polygon",
+          "description": "Konva regular polygon",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-arrow",
+          "description": "Konva arrow",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-shape",
+          "description": "Konva shape",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        },
+        {
+          "name": "v-transformer",
+          "description": "Konva transformer",
+          "attributes": [
+            {
+              "name": "config"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
